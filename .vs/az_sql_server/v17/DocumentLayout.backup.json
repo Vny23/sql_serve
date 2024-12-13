@@ -1,0 +1,60 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\komal\\OneDrive\\Desktop\\az_sql_server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B98F8A7C-5253-4D62-8582-06EA3F635A80}|az_sql_server.sqlproj|C:\\Users\\komal\\OneDrive\\Desktop\\az_sql_server\\Script.PostDeployment1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{B98F8A7C-5253-4D62-8582-06EA3F635A80}|az_sql_server.sqlproj|solutionrelative:Script.PostDeployment1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B98F8A7C-5253-4D62-8582-06EA3F635A80}|az_sql_server.sqlproj|C:\\Users\\komal\\OneDrive\\Desktop\\az_sql_server\\ProjectStatusTable.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{B98F8A7C-5253-4D62-8582-06EA3F635A80}|az_sql_server.sqlproj|solutionrelative:ProjectStatusTable.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B98F8A7C-5253-4D62-8582-06EA3F635A80}|az_sql_server.sqlproj|C:\\Users\\komal\\OneDrive\\Desktop\\az_sql_server\\Script.PostDeployment1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{B98F8A7C-5253-4D62-8582-06EA3F635A80}|az_sql_server.sqlproj|solutionrelative:Script.PostDeployment1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B98F8A7C-5253-4D62-8582-06EA3F635A80}|az_sql_server.sqlproj|C:\\Users\\komal\\OneDrive\\Desktop\\az_sql_server\\ProjectStatusTable.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{B98F8A7C-5253-4D62-8582-06EA3F635A80}|az_sql_server.sqlproj|solutionrelative:ProjectStatusTable.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProjectStatusTable.sql",
+              "DocumentMoniker": "C:\\Users\\komal\\OneDrive\\Desktop\\az_sql_server\\ProjectStatusTable.sql",
+              "RelativeDocumentMoniker": "ProjectStatusTable.sql",
+              "ToolTip": "C:\\Users\\komal\\OneDrive\\Desktop\\az_sql_server\\ProjectStatusTable.sql",
+              "RelativeToolTip": "ProjectStatusTable.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-13T02:39:09.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Script.PostDeployment1.sql ",
+              "DocumentMoniker": "C:\\Users\\komal\\OneDrive\\Desktop\\az_sql_server\\Script.PostDeployment1.sql",
+              "RelativeDocumentMoniker": "Script.PostDeployment1.sql",
+              "ToolTip": "C:\\Users\\komal\\OneDrive\\Desktop\\az_sql_server\\Script.PostDeployment1.sql*",
+              "RelativeToolTip": "Script.PostDeployment1.sql*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-13T02:38:07.463Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

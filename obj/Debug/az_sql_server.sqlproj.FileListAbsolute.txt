@@ -1,0 +1,10 @@
+C:\Users\komal\OneDrive\Desktop\az_sql_server\bin\Debug\az_sql_server.dacpac
+C:\Users\komal\OneDrive\Desktop\az_sql_server\bin\Debug\az_sql_server.dll
+C:\Users\komal\OneDrive\Desktop\az_sql_server\bin\Debug\az_sql_server.pdb
+C:\Users\komal\OneDrive\Desktop\az_sql_server\obj\Debug\az_sql_server.sqlproj.AssemblyReference.cache
+C:\Users\komal\OneDrive\Desktop\az_sql_server\obj\Debug\Model.xml
+C:\Users\komal\OneDrive\Desktop\az_sql_server\obj\Debug\refactor.xml
+C:\Users\komal\OneDrive\Desktop\az_sql_server\obj\Debug\postdeploy.sql
+C:\Users\komal\OneDrive\Desktop\az_sql_server\obj\Debug\predeploy.sql
+C:\Users\komal\OneDrive\Desktop\az_sql_server\obj\Debug\az_sql_server.dll
+C:\Users\komal\OneDrive\Desktop\az_sql_server\obj\Debug\az_sql_server.pdb
